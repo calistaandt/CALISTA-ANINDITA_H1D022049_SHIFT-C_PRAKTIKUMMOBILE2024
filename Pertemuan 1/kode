@@ -1,0 +1,12 @@
+import 'dart:math';
+
+void main(){
+  
+  int angka = Random().nextInt(20);
+  if(angka % 2 ==0){
+    print("angka $angka merupakan bilangan genap");
+  }else{
+    print("angka $angka merupakan bilangan ganjil");
+  }
+  
+}
