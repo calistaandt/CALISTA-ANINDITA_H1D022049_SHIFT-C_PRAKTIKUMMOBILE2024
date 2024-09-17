@@ -1,5 +1,11 @@
 # Tugas Pertemuan 2
 
+Nama : Calista Anindita
+
+NIM : H1D022049
+
+Shift Baru: C
+
 Menjelaskan Proses Passing Data Dari Form Menuju Tampilan
 1.	Mengimpor Paket dan File
     a. 	import '/ui/tampil_data.dart'; 
